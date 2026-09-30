@@ -1,21 +1,27 @@
 # Structured Notes VTB
 
-Публичный репозиторий для desktop-версии приложения **Structured Notes VTB** и обновляемого каталога структурных облигаций.
+Structured Notes VTB is a Windows desktop application for analytical valuation of structured notes.
 
-## Скачать приложение
+## Download
 
-Актуальный Windows-релиз:
+Latest Windows release:
 
 https://github.com/poisson-process/structured-notes-vtb-catalog/releases/latest
 
-Приложение распространяется как portable ZIP для Windows 10/11 x64. Установка Python не требуется: распакуйте архив целиком и запустите `StructuredNotesVTB.exe`.
+The application is distributed as a portable ZIP archive for Windows 10/11 x64. Python is not required.
 
-Для получения актуальных рыночных данных, обновления истории КБД и каталога продуктов требуется подключение к интернету.
+To run the application:
 
-## Каталог продуктов
+1. Download the latest release.
+2. Extract the ZIP archive completely.
+3. Run `StructuredNotesVTB.exe`.
 
-Файлы `products.csv`, `equity_products.csv`, `equity_call_legs.csv` и `version.json` используются приложением для обновления каталога структурных облигаций.
+An internet connection is required for current market data, catalog updates, and yield-curve history updates.
 
-## Назначение
+## Product catalog
 
-Приложение предназначено для аналитической оценки структурных облигаций и исследования их выплат и рисков. Полученные результаты не являются индивидуальной инвестиционной рекомендацией.
+This repository also hosts the public product catalog used by the application. The files `products.csv`, `equity_products.csv`, `equity_call_legs.csv`, and `version.json` are used for catalog updates.
+
+## Disclaimer
+
+The application is provided for analytical and informational purposes only. Results may differ from market prices and should not be treated as investment advice or an offer to buy or sell any financial instrument.
