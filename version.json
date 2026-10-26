@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "catalog_version": 6,
+  "catalog_version": 7,
   "files": {
     "products.csv": "73dc364612977ef2481b9164a98b1db0f2468658c534f6c262365b8911dc493f",
-    "equity_products.csv": "08b29effddfb1d69fb4549906a28158f5fb0cda879cf0310cbb0aea5207c40d5",
-    "equity_call_legs.csv": "012fc1f701897f2524594e3e5fd7264b380f557e979a9ae04d8f0e77acfc5d48"
+    "equity_products.csv": "64c76db4cdfadbda558251befe1389742c9fcb66f5ef00023661ead449fb1cb6",
+    "equity_call_legs.csv": "f0191ce1e99ea71e52505c879094a7d5e1c848867343fd7ab1a11893a82ebe7e"
   }
 }

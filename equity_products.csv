@@ -1,5 +1,6 @@
 product_isin,product_name,underlying_name,underlying_isin,initial_fixing_date,placement_date,maturity_date,nominal_rub,fixed_rate,option_template,enabled,initial_share_price
 RU000A1043R4,Б-1-271,ПАО Газпром,RU0007661625,2026-02-27,2026-03-02,2027-03-01,1000,0.1365,single_call,true,127.05
+RU000A104560,Б-1-277,ПАО Газпром,RU0007661625,2026-10-21,2026-10-26,2027-10-25,1000,0.137,single_call,true,111.37
 RU000A104DH5,Б-1-297,ПАО Газпром,RU0007661625,2026-04-03,2026-04-07,2027-04-06,1000,0.134,single_call,true,133.07
 RU000A104DK9,Б-1-299,ПАО Сбербанк,RU0009029540,2026-02-17,2026-02-19,2027-02-18,1000,0.141,single_call,true,309.57
 RU000A104DN3,Б-1-302,ПАО Газпром,RU0007661625,2026-03-06,2026-03-10,2027-03-09,1000,0.134,single_call,true,131.64
